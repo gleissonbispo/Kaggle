@@ -15,15 +15,13 @@
 
 
 ## Competition:
-__[Kaggle Competition: Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/)__
+[Kaggle Competition: Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/)
 
 
-[<img src = https://assets.papelpop.com/wp-content/uploads/2017/12/titanic.jpg width=700>](https://www.kaggle.com/c/titanic/)
+[<img src = https://assets.papelpop.com/wp-content/uploads/2017/12/titanic.jpg width=600>](https://www.kaggle.com/c/titanic/)
 
-# Results
-
-### Kaggle Score
+## Kaggle Score
 <img src = https://raw.githubusercontent.com/gleissonbispo/Kaggle-Competitions/master/Titanic/data/Result_Kaggle.PNG>
 
-### Kaggle Leaderboard
+## Kaggle Leaderboard
 <img src = https://raw.githubusercontent.com/gleissonbispo/Kaggle-Competitions/master/Titanic/data/Leaderboard_Kaggle.PNG>
